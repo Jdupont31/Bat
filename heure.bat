@@ -1,0 +1,1 @@
+echo Le %date% à %time% >> journal.txt 

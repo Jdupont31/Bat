@@ -1,0 +1,1 @@
+C:\Users\dupont\Desktop\Bat^&shell\Perso\PSTools\psexec.exe  \\E05914 -u ladepeche\pssvp1 -s -d cmd.exe /c "C:\Users\dupont\Desktop\Bat&shell\PERSO\Bat\bat.bat"

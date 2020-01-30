@@ -1,2 +1,2 @@
 cd "C:\Users\dupont\Desktop\Bat&shell\Perso\PSTools\"
-psexec.exe  \\E07151 -u ladepeche\pssvp1 -p 90ux;55;; -i -d -e  "C:\Program Files (x86)\Internet Explorer\iexplore.exe"  -k "c:\sources\ie\error.html"
+psexec.exe  \\NOMPC-u ladepeche\pssvp1 -p 90ux;55;; -i -d -e  "C:\Program Files (x86)\Internet Explorer\iexplore.exe"  -k "c:\sources\ie\error.html"

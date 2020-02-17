@@ -1,0 +1,14 @@
+
+#!/bin/bash
+
+export DISPLAY=:0
+# Lignes pour chromium et placer les trois bouton du site dépeche sur l'écran vertical.
+
+
+ sleep 10
+ xdotool getactivewindow mousemove 678 1153
+ xdotool getactivewindow click 1
+ xdotool getactivewindow mousemove 303 112
+ xdotool getactivewindow click 1
+ xdotool getactivewindow mousemove 760 1863
+ xdotool getactivewindow click 1

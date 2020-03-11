@@ -1,0 +1,1 @@
+runas /user:administrateur "C:\Users\nomuser\AppData\Roaming\appli\machin\logiciel.exe"
